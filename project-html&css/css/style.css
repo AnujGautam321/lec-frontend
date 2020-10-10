@@ -1,0 +1,94 @@
+*{
+    margin:0px;
+    padding:0px;
+    }
+    
+.whole{
+    width: 100%;
+    height: 100%;
+    background-color:whitesmoke;
+    }
+
+.welcome h1{
+    color:green;
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+    font-size: 4em;
+    font-weight: 2;
+    opacity: 1;
+    width: 100%;
+    height: 100px;
+    padding: 80px;
+}
+
+.intro{
+    background-image: url('https://i2.wp.com/urbanasian.com/wp-content/uploads/2018/10/135289.jpg?fit=1500%2C920&ssl=1');
+    background-repeat: no-repeat;
+    background-position: centre;
+    background-size: cover;
+    height: 700px;
+    width: 1000px;
+    position: relative;
+    left: 180px;
+    top: 10px;
+    border-radius: 50%;
+}
+
+
+    .intro pre{
+    color: red;
+    position: relative;
+    left: 60px;
+    top: 200px;
+    font-size: 1.5em;
+    opacity: 5;
+    
+}
+
+
+.songs{
+    position: relative;
+    top: 500px;
+    left: -100px;
+}
+
+.movies{
+    position: relative;
+    left: 200px;
+    top: 350px;
+}
+.firstmovie{
+    position: relative;
+    top: 260px;
+    left: -130px;
+
+}
+
+.secondmovie{
+    position: relative;
+    top: -420px;
+    left: 500px;
+
+}
+
+.form{
+    position: relative;
+    left: 50px;
+    
+}
+
+.location{
+    position: relative;
+    top: 50px;
+    left: 300px;
+    
+}
+
+.footer{
+    position: relative;
+    top: 100px;
+}
+
+
+
